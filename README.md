@@ -8,6 +8,8 @@ As per the requirements, we have adherred to OpenSource tools along with the mod
 
 The first step was to fine-tune the Code-Llama2 13b model on the SQL query dataset. The model was pruned to fp8 and quantized to INT8 to reduce the model size and make it more efficient for deployment. The training script is provided in the repository for reference. Training took around 4 hours on 2 NVIDIA A100 GPUs. The model was then evaluated during inference on the dataset provided and has shown promising results.
 
+Model link: https://huggingface.co/shashwat1225/Text2sql-Llama2-13b
+
 The following steps are provided to run the model at inference along with the prerequisites and the installation steps.
 
 
