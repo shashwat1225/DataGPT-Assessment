@@ -1,0 +1,6 @@
+pandas==1.4.2
+sqlalchemy==1.4.39
+torch==1.12.1
+transformers==4.20.1
+bitsandbytes==0.42.0
+datasets==2.4.0
