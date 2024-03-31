@@ -52,9 +52,9 @@ Instructions on how to use the project or examples of usage.
 
 ### Running the scripts
 
-    - [Data Preparation]: Place your dataset in the project directory. Ensure it is formatted correctly as per the example CSV file.
-    - [Querying the Dataset]: Use DataGPT-main.ipynb for interacting with the dataset using natural language queries.
-    - [Model Training and Fine-tuning (Optional)]: DataGPT-train.ipynb provides insights into the model's training process for further customization.
+1. Data Preparation: Place your dataset in the project directory. Ensure it is formatted correctly as per the example CSV file.
+2. Querying the Dataset: Use DataGPT-main.ipynb for interacting with the dataset using natural language queries.
+3. Model Training and Fine-tuning (Optional): DataGPT-train.ipynb provides insights into the model's training process for further customization.
 
 ### Querying the Dataset
 
