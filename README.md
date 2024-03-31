@@ -20,10 +20,10 @@ The following steps are provided to run the model at inference along with the pr
 
 ## Features
 
-    - [Natural Language Processing]: Convert textual queries into SQL queries for efficient data retrieval.
-    - [Flexible Data Handling]: Capable of processing queries involving date, categorical, and numerical columns.
-    - [Advanced Query Interpretation]: Understands ordinal text and searches, including handling synonyms, case insensitivity, and typographical errors.
-    - [Scalable Solution]: Designed to be scalable, capable of handling larger datasets with multiple columns.
+    - Natural Language Processing: Convert textual queries into SQL queries for efficient data retrieval.
+    - Flexible Data Handling: Capable of processing queries involving date, categorical, and numerical columns.
+    - Advanced Query Interpretation: Understands ordinal text and searches, including handling synonyms, case insensitivity, and typographical errors.
+    - Scalable Solution: Designed to be scalable, capable of handling larger datasets with multiple columns.
 
 ## Installation
 
