@@ -70,4 +70,4 @@ Instructions on how to use the project or examples of usage.
 
 ## Scalability
 
-is designed with scalability in mind, capable of handling larger datasets efficiently. During the technical interview, the solution will be evaluated against a dataset of 100,000 rows and 50 columns, demonstrating its robustness and efficiency in real-world scenarios.
+The model is designed with scalability in mind, capable of handling larger datasets efficiently. The code will be able to generate output with a dataset of 100,000 rows and 50 columns.
